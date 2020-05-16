@@ -9,9 +9,7 @@
   },
   "author": "William Jacob-Crankshaw",
   "license": "ISC",
-  "dependencies": {
-    "uuid": "^8.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "nodemon": "^2.0.3"
   }
